@@ -1,5 +1,5 @@
-Print ("Hello World")
-Print ("Hello EveryBody")
+Print ("Hello World;")
+Print ("Hello EveryBody;")
 
-print ("повтор теста")
-print ("мастер ветка")
+print ("повтор теста;")
+print ("мастер ветка;")
