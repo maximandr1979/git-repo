@@ -3,3 +3,7 @@ Print ("Hello EveryBody;")
 
 print ("повтор теста;")
 print ("мастер ветка;")
+
+print ("Hello my dear friend;")
+
+print ("Glad to see you;")
