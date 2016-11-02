@@ -1,2 +1,4 @@
 Print ("Hello World")
 Print ("Hello EveryBody")
+
+print ("повтор теста")
